@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/jagdish904" target="blank"><img src="https://img.shields.io/twitter/follow/jagdish904?logo=twitter&style=for-the-badge" alt="jagdish904" /></a> </p>
 
+- 🌱 I’m currently learning **Next.js**
+
+- 📝 I regularly write articles on [https://hashnode.com/@jsaini8941](https://hashnode.com/@jsaini8941)
+
+- 💬 Ask me about **Javascript, React, Frontend**
+
+- 📫 How to reach me **jsaini8941@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aWcqBgktJpFt_ysaqn7__DU_YgtEyQfU/view?usp=share_link](https://drive.google.com/file/d/1aWcqBgktJpFt_ysaqn7__DU_YgtEyQfU/view?usp=share_link)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
